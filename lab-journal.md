@@ -12,6 +12,8 @@ Markdown is a method of writing information, and using syntax to format that inf
 + typing "1. 2. 3. etc " will create a numbered list.
 + typing "[link]""(the actual link)" (*without the "'s*).
 
+---
+
 ## Command-line 101
 The following bullets are commands that can be entered into a terminal to achieve a certain result and an overview of what those results are.
 + "$ ls" will list the directory contents.
@@ -28,6 +30,27 @@ The following bullets are commands that can be entered into a terminal to achiev
 + "rm -rf" will remove files without question or inhibition repeatedly.
 + "cat /proc/cpuinfo" will display the info of the cpu.
 
+---
+
+## Git repositories
+
+Git repositories are for saving and sharing notes by making backup copies on the internet.  
+
+* __git init__
+  * Creates a _git_ repository by creating a hidden _.git_ folder which stores all the objects _git_ manipulates.  
+* __git config user.name "Firstname Surname"__
+    * Defines _user name_
+* __git config user.email "email"__
+    * Defines _user email_
+* **git add** _file name_
+    * Introduces the file _file name_ to _git_
+* __git commit__
+    * Record changes to the repository
+    * Allows us to create a message briefly explaineing about the     changes or the file.  
+* __git log__
+    * Displayes the history of changes in the repository.
+* __>README.md__
+    * It is customary to create a README file that describes using markdown syntax the content of the repository.  
 
 
 

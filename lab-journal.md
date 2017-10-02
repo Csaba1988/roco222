@@ -44,13 +44,15 @@ Git repositories are for saving and sharing notes by making backup copies on the
     * Defines _user email_
 * **git add** _file name_
     * Introduces the file _file name_ to _git_
-* __git commit__
-    * Record changes to the repository
+* __git commit__ *file name*
+    * Record changes to the repository/file if file name included
     * Allows us to create a message briefly explaineing about the     changes or the file.  
 * __git log__
     * Displayes the history of changes in the repository.
 * __>README.md__
     * It is customary to create a README file that describes using markdown syntax the content of the repository.  
+* __git status__
+    * This command checks if any file need to be added or if there is a change that needs to be commited.  
 
 
 

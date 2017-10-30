@@ -52,8 +52,7 @@ Git repositories are for saving and sharing notes by making backup copies on the
     * Record changes to the repository/file if file name included
     * Allows us to create a message briefly explaineing about the     changes or the file.  
     * __-m__ lets us type the commit message straightaway.  
-* __git log__
-    * Displayes the history of changes in the repository.
+* __git log__/
 * __git log__--author=_bob_
     * Displays commits that _bob_ made.
 * __git log --pretty=oneline__

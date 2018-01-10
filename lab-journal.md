@@ -178,7 +178,7 @@ more: Have used 60 turns
 
 ![Improved DC Motor] (/roco222/DC_motor_images/ImprovedDCMotor.JPG)
 
-    * We have designed the armature and the mounts in SolidWorks and made it so we can use 4 windings 100 turns each. We have used a screw for a shaft and the ball bearings from fidget spinners. Initially we used different ballbearings but we found that we did not pay attention to the abec number so the ballbearings that we used were to stiff.
+    * We have designed the armature and the mounts in SolidWorks and made it so we can use 4 windings 100 turns each. We have used a screw for a shaft and the ball bearings from fidget spinners. Initially we used different ballbearings but we found that we did not pay attention to the abec number so the ballbearings that we used were to stiff.  
     * For the commutator we have used foam pad on a nut and cut up a copper compression olive in 8 bits and stick it on the foam.
 
 ![Brushes and commutator] (/roco222/DC_motor_images/Brushes.JPG)

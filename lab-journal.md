@@ -5,10 +5,15 @@ Markdown is a method of writing information, and using syntax to format that inf
 ## Table of contents
 
 [Markdown Syntax](https://github.com/Csaba1988/roco222/blob/master/Markdown-Syntax.md)
-    * [Basic Terminal commands](https://www.google.com)
-    * [Git repositories](https://www.google.com)
-    * [Building a dc motor](https://www.google.com)
-    * [ROS - Robot Operating System](https://www.google.com)
+
+[Basic Terminal commands](https://github.com/Csaba1988/roco222/blob/master/Basic-Terminal-commands.md)
+
+[Git repositories](https://github.com/Csaba1988/roco222/blob/master/Git-repositories.md)
+
+[Building a dc motor](https://github.com/Csaba1988/roco222/blob/master/Building-a-dc-motor.md)
+
+[ROS - Robot Operating System](https://github.com/Csaba1988/roco222/blob/master/ROS-Robot-Operating-System.md)
+
 --- 
 ## Markdown Syntax
 + using "#" will create headers. Increasing the number of "#'s" will reduce the size of the header.

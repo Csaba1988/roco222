@@ -14,3 +14,4 @@ The following bullets are commands that can be entered into a terminal to achiev
 + "rm -rf" will remove files without question or inhibition repeatedly.
 + "cat /proc/cpuinfo" will display the info of the cpu.
 
+[ROS - Robot Operating System](https://github.com/Csaba1988/roco222/blob/master/lab-journal.md)

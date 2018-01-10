@@ -176,17 +176,17 @@ more: Have used 60 turns
 
 * __Improved Motor2__
 
-![Improved DC Motor](DC_motor_images/ImprovedDCMotor.JPG)
+ ![Improved DC Motor](DC_motor_images/ImprovedDCMotor.JPG)
 
     * We have designed the armature and the mounts in SolidWorks and made it so we can use 4 windings 100 turns each. We have used a screw for a shaft and the ball bearings from fidget spinners. Initially we used different ballbearings but we found that we did not pay attention to the abec number so the ballbearings that we used were to stiff.  
     * For the commutator we have used foam pad on a nut and cut up a copper compression olive in 8 bits and stick it on the foam.
 
-![Brushes and commutator](DC_motor_images/Brushes.JPG)
+ ![Brushes and commutator](DC_motor_images/Brushes.JPG)
 
     * We made the mount of the magnets from wood.
     * For the encoder part I have made the disc out from cardboard and drilled a hole through the mount and placed the the led in the hole.
 
-![Encoder](DC_motor_images/Encoder.JPG)
+ ![Encoder](DC_motor_images/Encoder.JPG)
 
 * __Motor characteristics__
     * Governing equations:

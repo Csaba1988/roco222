@@ -42,3 +42,5 @@ more: Have used 60 turns
     * Phi = BAcosø
     * T = phiIcZp/PI
 
+[Lab journal](https://github.com/Csaba1988/roco222/blob/master/lab-journal.md)
+

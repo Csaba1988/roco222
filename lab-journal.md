@@ -149,13 +149,13 @@ Git repositories are for saving and sharing notes by making backup copies on the
     * Wind the wire around the cork.
     * Use sellotape to fix it down. Record how many turns you use. It should be at least 60 turns and preferably
 more: Have used 60 turns
-    * ![core cork with 1 winding and commutators] (/roco222/DC_motor_images/DC_motor_core_1winding.jpg)
+    * ![core cork with 1 winding and commutators](DC_motor_images/DC_motor_core_1winding.jpg)
 
     * Make sure both ends of the wire will remain accessible.
     * Use sandpaper to remove the enamel at the ends: Used a soldering iron as well and checked it by spreading solder at the ends. If the enamel has gone then the solder spreads really well.
     * Solder the end of the coil wires onto the copper commutator sections
     * Measure the resistance of the coil: 2 Ohms
-    * ![Wire winding resistance] (/roco222/DC_motor_images/Wire_winding_resistance.JPG)
+    * ![Wire winding resistance](DC_motor_images/Wire_winding_resistance.JPG)
 
 * __Improved Motor__
     * We used 2 windings 60 turns each

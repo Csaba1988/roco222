@@ -7,3 +7,5 @@
 + typing "---" will create a horizontal line, useful for separating information.
 + typing "1. 2. 3. etc " will create a numbered list.
 + typing "[link]""(the actual link)" (*without the "'s*).
+
+[Lab journal](https://github.com/Csaba1988/roco222/blob/master/lab-journal.md)

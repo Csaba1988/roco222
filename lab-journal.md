@@ -186,13 +186,13 @@ to stiff.
     * For the commutator we have used foam pad on a nut and cut up a copper compression olive in 8 bits and stick  
 it on the foam.
 
- ![Brushes and commutator](DC_motor_images/Brushes.JPG)
+ ![Brushes and commutator](https://github.com/Csaba1988/roco222/blob/master/DC_motor_images/Brushes.jpg)
 
     * We made the mount of the magnets from wood.
     * For the encoder part I have made the disc out from cardboard and drilled a hole through the mount and placed  
 the the led in the hole.
 
- ![Encoder](DC_motor_images/Encoder.JPG)
+ ![Encoder](https://github.com/Csaba1988/roco222/blob/master/DC_motor_images/Encoder.jpg)
 
 * __Motor characteristics__
     * Governing equations:
@@ -428,6 +428,46 @@ the the led in the hole.
 
 ```
 
-![RVIZrep](DC_motor_images/RVIZrep.jpg)
+![RVIZrep](https://github.com/Csaba1988/roco222/blob/master/DC_motor_images/RVIZrep.png)
+
+* __Arduino code to control servo__
+
+```
+
+#include<ros.h>
+#include<std_msgs/UInt16.h>
+#include<Servo.h>
+
+using namespace ros;
+
+
+NodeHandle  nh;
+Servo servo;
+
+void cb(const std_msgs ::UInt16& msg){
+  servo.write(msg.data);// 0-180
+}
+Subscriber<std_msgs::UInt16> sub("servo", cb);
+
+void setup(){
+
+  nh.initNode();
+  
+  nh.subscribe(sub);
+  
+  servo.attach(9);//attach it to pin 9
+}
+
+void loop(){
+
+nh.spinOnce();
+
+delay(1);
+}
+
+```
+
+    * The function cd takes a type UInt16 from std_msg and servo.write(msg.data); writes that data to  
+the servo hence moving it.
 
 

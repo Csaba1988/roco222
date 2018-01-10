@@ -1,6 +1,14 @@
 # Journal
 
 Markdown is a method of writing information, and using syntax to format that information. This information can be converted directly into HTML.
+
+## Table of contents
+
+    * [Markdown Syntax](https://github.com/Csaba1988/roco222/blob/master/Markdown-Syntax.md)
+    * [Basic Terminal commands](https://www.google.com)
+    * [Git repositories](https://www.google.com)
+    * [Building a dc motor](https://www.google.com)
+    * [ROS - Robot Operating System](https://www.google.com)
 --- 
 ## Markdown Syntax
 + using "#" will create headers. Increasing the number of "#'s" will reduce the size of the header.

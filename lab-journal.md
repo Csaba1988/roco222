@@ -177,7 +177,7 @@ solder at the ends. If the enamel has gone then the solder spreads really well.
 
 * __Improved Motor2__
 
- ![Improved DC Motor](DC_motor_images/ImprovedDCMotor.JPG)
+ ![Improved DC Motor](https://github.com/Csaba1988/roco222/blob/master/DC_motor_images/ImprovedDCMotor.jpg)
 
     * We have designed the armature and the mounts in SolidWorks and made it so we can use 4 windings 100 turns  
 each. We have used a screw for a shaft and the ball bearings from fidget spinners. Initially we used different  

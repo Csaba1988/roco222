@@ -95,3 +95,4 @@ Git repositories are for saving and sharing notes by making backup copies on the
 * __Adding key to the GitHub account__
     * We can either use xclip (_sudo apt-get install xclip_) that copies the public key to the clipboard (*xclip -sel clip < ~/.ssh/id_rsa.pub*) or just simly navigate to the .ssh folder in Files and copy the public key from their to GitHub/Settings/SSH and GPG keys/new key. I can name my key at the Title section.
 
+[Lab journal](https://github.com/Csaba1988/roco222/blob/master/lab-journal.md)

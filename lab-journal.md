@@ -4,7 +4,7 @@ Markdown is a method of writing information, and using syntax to format that inf
 
 ## Table of contents
 
-    * [Markdown Syntax](https://github.com/Csaba1988/roco222/blob/master/Markdown-Syntax.md)
+[Markdown Syntax](https://github.com/Csaba1988/roco222/blob/master/Markdown-Syntax.md)
     * [Basic Terminal commands](https://www.google.com)
     * [Git repositories](https://www.google.com)
     * [Building a dc motor](https://www.google.com)

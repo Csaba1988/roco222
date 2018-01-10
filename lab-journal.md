@@ -427,3 +427,7 @@ the the led in the hole.
 </robot>
 
 ```
+
+![RVIZrep](DC_motor_images/RVIZrep.jpg)
+
+

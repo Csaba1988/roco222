@@ -39,3 +39,5 @@
 * __rosrun robot_state_publisher robot_state_publisher__ launches the robot state publisher
 * **rosrun joint_state_publisher joint_state_publisher _use_gui:
 =true** launches the robot joint state publisher
+
+[Lab journal](https://github.com/Csaba1988/roco222/blob/master/lab-journal.md)
